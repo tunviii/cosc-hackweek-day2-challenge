@@ -1,6 +1,6 @@
 # Student Info
 
-- Name: 
-- Roll Number: 
-- Section: 
-- GitHub Username: 
+- Name: Uddandam Tanvi
+- Roll Number: 160124737162
+- Section: IT 3
+- GitHub Username: tunviii
